@@ -28,24 +28,24 @@ b| ≤ min(100,|a|)). Обе строки состоят только из си�
 
 #### Примеры №1
 
-##### INPUT.TXT
+##### INPUT
 
 abcabc
 
 abc
 
-##### OUTPUT.TXT
+##### OUTPUT
 
 4
 
 #### Примеры №2
 
-##### INPUT.TXT
+##### INPUT
 
 aaaaaaa
 
 aa
 
-##### OUTPUT.TXT
+##### OUTPUT
 
 6
