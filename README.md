@@ -11,6 +11,8 @@
 ### Второй вариант
 `pip install -e git+https://github.com/Astrof123/CircleShift.git#egg=CircleShift`
 
+## Общее описание
+
 ### Библиотека решает вот эту задачу
 
 Циклическим сдвигом строки s называется строка sksk+1sk+2…s|s|s1s2…sk-1 для
