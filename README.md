@@ -1,4 +1,8 @@
 # CircleShift
+Ссылка на этот гит:
+
+[https://github.com/Astrof123/CircleShift.git](https://github.com/Astrof123/CircleShift.git)
+
 
 ## Установка
 ### Первый вариант:
